@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aztec-dev
+- 👋 Hi, I’m Azariah
 - 👀 I’m interested in anything to do with software development but mainly JavaScript, C# and Python
 
 <!---
