@@ -9,9 +9,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/aztec-dev" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aztec-dev&theme=tokyonight" />
-</p>
 
 <!---
 aztec-dev/aztec-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
