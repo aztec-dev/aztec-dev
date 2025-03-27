@@ -10,7 +10,7 @@
   <img src="https://leetcard.jacoblin.cool/aztec-dev" />
 </p>
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?aztec-dev&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?aztec-dev&theme=tokyonight" />
 </p>
 
 <!---
